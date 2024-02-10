@@ -1,0 +1,21 @@
+body{
+    background-image: url(ddw-currency-converter.png);
+    background-size: cover;
+}
+
+#contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    color: silver;
+}
+
+#inputUser{
+    margin-top: 2%;
+}
+
+#switch{
+    margin-top: 2%;
+}
